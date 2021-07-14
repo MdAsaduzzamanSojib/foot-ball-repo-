@@ -54,7 +54,8 @@ grid-template-columns: repeat(3, 1fr);
 }
 .all-players{
     margin-top: 80px;
-    margin-left: 150px;
+    margin-left: 129px;
+    padding-right: 109px;
 }
 .box-style{
     border-radius: 5px;
